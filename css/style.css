@@ -1,0 +1,16 @@
+.navbar-nav > li > a,.navbar-brand { padding-top:4px !important; padding-bottom:0 !important; height: 60px; }
+.navbar {min-height:60px !important;}
+
+.line-clamp{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient:vertical ;
+    overflow: hidden;
+}
+
+.color-white{
+    color: white
+}
+body{
+    background-color: gray;
+}
